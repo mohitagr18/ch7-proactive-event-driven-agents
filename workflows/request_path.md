@@ -35,7 +35,7 @@ flowchart TB
     end
 
     O -.-> G1
-```
     O -.-> G2
     L -.-> G3
     S -.-> G4
+```
